@@ -1,6 +1,6 @@
-# flutter_api
+# flutter thingsspeak api
 
-A new Flutter project.
+A school project for displaying data collected from wireless sensors.
 
 ## Getting Started
 
