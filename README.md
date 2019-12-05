@@ -1,4 +1,4 @@
-# flutter thingsspeak api
+# flutter thingsspeakapi
 
 A school project for displaying data collected from wireless sensors.
 
